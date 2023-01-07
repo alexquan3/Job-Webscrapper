@@ -10,7 +10,7 @@ Then saves it to an excel file.
 
 ![image](https://user-images.githubusercontent.com/103018029/211155735-b94cd365-f87d-4a54-afab-356d68067373.png)
 
-# Setup 
+# Setup requirments
 Language: Python 
 
 Libraries: cloudscrapper, bs4, and pandas 
