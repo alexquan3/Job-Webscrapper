@@ -4,6 +4,7 @@ Looks through indeed and saves all data into an excel file. This includes job ti
 Program takes 3 inputs: 
 
 Job title, location, and pages. 
+![image](https://user-images.githubusercontent.com/103018029/211155735-b94cd365-f87d-4a54-afab-356d68067373.png)
 
 # Setup 
 Language: Python 
